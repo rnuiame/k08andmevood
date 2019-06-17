@@ -1,0 +1,7 @@
+Karl,29
+Kert,38
+Mart,45
+Joosep,21
+Andres,32
+Martin,27
+Aivar,36
